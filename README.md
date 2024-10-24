@@ -1,0 +1,1 @@
+The customer churn analysis provides valuable insights into the factors influencing churn within a telecommunications company. The analysis examines customer demographics, tenure, service subscriptions, contract types, and payment methods to pinpoint key areas of churn
